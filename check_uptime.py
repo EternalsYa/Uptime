@@ -1,8 +1,8 @@
 import requests
 
 # Ganti dengan API Key dan Monitor ID kamu
-API_KEY = 'YOUR_API_KEY'
-MONITOR_ID = 'YOUR_MONITOR_ID'
+API_KEY = 'u2305023-73e94b25a40b1adef76f569f'
+MONITOR_ID = 'ur2305023-e5f614b05c435ca8095fbb29'
 
 def check_uptime():
     try:
